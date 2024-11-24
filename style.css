@@ -22,7 +22,7 @@ body{
 }
 .controls{
     height:70%;
-    width:65%;
+    width:auto;
     border-radius:10px;
     margin:20px;
     border:3px solid white;
@@ -30,11 +30,28 @@ body{
 .speed-bg {
     height: 5%;
     width: 50%;
-    background-color: crimson;
-    border: 2px solid white;
+    background-color: #ccc;
+    border: 2px solid black;
     border-radius: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size:1.5rem;
+    font-size: 1.5rem;
+   
+}
+.speed-bar{
+    height: 100%;
+    width: 0;
+    border-radius: 100px;
+    display: flex;
+    color:black;
+    user-select:none;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right,cyan,blue);
+}
+.speeder{
+    height:100%;
+    width:100%;
+    background-color:white;
 }
