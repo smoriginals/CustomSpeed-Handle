@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/CustomSpeed-Handle/)
+[OPEN IN BROWSER](https://smoriginals.github.io/CustomSpeed-Handle/)
